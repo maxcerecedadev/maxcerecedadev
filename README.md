@@ -26,6 +26,8 @@ You can contact me through my social media profiles:
 I really enjoy reading science fiction, and I am also a big fan of movies. In my free time, I like to work on technology projects and enjoy sunsets.
 
 ## 💻 Stats:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cereceda1991&show_icons=true&theme=radical)](https://github.com/cereceda1991)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxcerecedadev&show_icons=true&theme=holi&card_width=460)](  https://github.com/cereceda1991  )
+
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxcerecedadev&layout=compact&langs_count=8&card_width=460&theme=holi" />
 
 Thank you for visiting my GitHub profile!
