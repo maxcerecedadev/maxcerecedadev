@@ -1,5 +1,5 @@
 # Hi, I'm Max Cereceda 👋
-[![Website](https://img.shields.io/badge/Website-max--cereceda.vercel.app-blue)](https://max-cereceda.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-max--cereceda.vercel.app-blue)](https://www.maxcereceda.com/)
 
 A Full Stack Web Developer with a keen interest in technology and science fiction. I enjoy programming and have experience in web application development, as well as system integration and database integration.
 
